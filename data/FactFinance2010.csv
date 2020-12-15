@@ -1,0 +1,1131 @@
+,FullDateAlternateKey,OrganizationName,ScenarioName,AccountDescription,Amount
+0,2010-12-29,Northeast Division,Actual,Salaries,22080.0
+1,2010-12-29,Northeast Division,Budget,Salaries,20200.0
+2,2010-12-29,Northeast Division,Budget,Payroll Taxes,2000.0
+3,2010-12-29,Northeast Division,Actual,Payroll Taxes,2208.0
+4,2010-12-29,Northeast Division,Actual,Employee Benefits,1546.0
+5,2010-12-29,Northeast Division,Budget,Employee Benefits,1800.0
+6,2010-12-29,Northeast Division,Budget,Travel Transportation,380.0
+7,2010-12-29,Northeast Division,Actual,Travel Transportation,378.0
+8,2010-12-29,Northeast Division,Actual,Travel Lodging,344.0
+9,2010-12-29,Northeast Division,Budget,Travel Lodging,380.0
+10,2010-12-29,Northeast Division,Budget,Meals,200.0
+11,2010-12-29,Northeast Division,Actual,Meals,174.0
+12,2010-12-29,Northeast Division,Actual,Entertainment,132.0
+13,2010-12-29,Northeast Division,Budget,Entertainment,100.0
+14,2010-12-29,Northeast Division,Actual,Other Travel Related,38.0
+15,2010-12-29,Northeast Division,Actual,Conferences,54.0
+16,2010-12-29,Northeast Division,Budget,Conferences,70.0
+17,2010-12-29,Northeast Division,Budget,Office Supplies,300.0
+18,2010-12-29,Northeast Division,Actual,Office Supplies,250.0
+19,2010-12-29,Northeast Division,Actual,Professional Services,114.0
+20,2010-12-29,Northeast Division,Budget,Professional Services,100.0
+21,2010-12-29,Northeast Division,Budget,Telephone,280.0
+22,2010-12-29,Northeast Division,Actual,Telephone,297.0
+23,2010-12-29,Northeast Division,Actual,Utilities,535.0
+24,2010-12-29,Northeast Division,Budget,Utilities,480.0
+25,2010-12-29,Northeast Division,Budget,Other Expenses,200.0
+26,2010-12-29,Northeast Division,Actual,Other Expenses,153.0
+27,2010-12-29,Northeast Division,Actual,Building Leasehold,586.0
+28,2010-12-29,Northeast Division,Budget,Building Leasehold,550.0
+29,2010-12-29,Northeast Division,Budget,Vehicles,380.0
+30,2010-12-29,Northeast Division,Actual,Vehicles,363.0
+31,2010-12-29,Northeast Division,Actual,Equipment,35.0
+32,2010-12-29,Northeast Division,Budget,Equipment,40.0
+33,2010-12-29,Northeast Division,Budget,Furniture and Fixtures,100.0
+34,2010-12-29,Northeast Division,Actual,Furniture and Fixtures,123.0
+35,2010-12-29,Northeast Division,Actual,Other Assets,103.0
+36,2010-12-29,Northeast Division,Budget,Other Assets,100.0
+37,2010-12-29,Northeast Division,Budget,Amortization of Goodwill,100.0
+38,2010-12-29,Northeast Division,Actual,Amortization of Goodwill,98.0
+39,2010-12-29,Northeast Division,Actual,Rent,540.0
+40,2010-12-29,Northeast Division,Budget,Rent,480.0
+41,2010-12-29,Northeast Division,Actual,Interest Income,201.0
+42,2010-12-29,Northeast Division,Actual,Interest Expense,309.0
+43,2010-12-29,Northeast Division,Actual,Gain/Loss on Sales of Asset,-247.0
+44,2010-12-29,Northeast Division,Actual,Other Income,412.0
+45,2010-12-29,Northeast Division,Actual,Taxes,214.0
+46,2010-12-29,Northeast Division,Actual,Headcount,12.0
+47,2010-12-29,Northeast Division,Actual,Finished Goods,23197.0
+48,2010-12-29,Northeast Division,Actual,Intercompany Sales,3059.0
+49,2010-12-29,Northeast Division,Budget,Intercompany Sales,3200.0
+50,2010-12-29,Northeast Division,Budget,Returns and Adjustments,2600.0
+51,2010-12-29,Northeast Division,Actual,Returns and Adjustments,2294.0
+52,2010-12-29,Northeast Division,Actual,Standard Cost of Sales,33968.0
+53,2010-12-29,Northeast Division,Budget,Standard Cost of Sales,27200.0
+54,2010-12-29,Northeast Division,Budget,Variances,3800.0
+55,2010-12-29,Northeast Division,Actual,Variances,3186.0
+56,2010-12-29,Northeast Division,Actual,Salaries,16320.0
+57,2010-12-29,Northeast Division,Budget,Salaries,14300.0
+58,2010-12-29,Northeast Division,Budget,Payroll Taxes,1600.0
+59,2010-12-29,Northeast Division,Actual,Payroll Taxes,1632.0
+60,2010-12-29,Northeast Division,Actual,Employee Benefits,979.0
+61,2010-12-29,Northeast Division,Budget,Employee Benefits,1100.0
+62,2010-12-29,Northeast Division,Budget,Commissions,2400.0
+63,2010-12-29,Northeast Division,Actual,Commissions,1912.0
+64,2010-12-29,Northeast Division,Actual,Travel Transportation,220.0
+65,2010-12-29,Northeast Division,Budget,Travel Transportation,280.0
+66,2010-12-29,Northeast Division,Budget,Travel Lodging,200.0
+67,2010-12-29,Northeast Division,Actual,Travel Lodging,200.0
+68,2010-12-29,Northeast Division,Actual,Meals,104.0
+69,2010-12-29,Northeast Division,Budget,Meals,100.0
+70,2010-12-29,Northeast Division,Budget,Entertainment,100.0
+71,2010-12-29,Northeast Division,Actual,Entertainment,76.0
+72,2010-12-29,Northeast Division,Actual,Other Travel Related,22.0
+73,2010-12-29,Northeast Division,Actual,Conferences,32.0
+74,2010-12-29,Northeast Division,Budget,Conferences,50.0
+75,2010-12-29,Northeast Division,Budget,Marketing Collateral,200.0
+76,2010-12-29,Northeast Division,Actual,Marketing Collateral,153.0
+77,2010-12-29,Northeast Division,Actual,Office Supplies,151.0
+78,2010-12-29,Northeast Division,Budget,Office Supplies,220.0
+79,2010-12-29,Northeast Division,Budget,Professional Services,100.0
+80,2010-12-29,Northeast Division,Actual,Professional Services,96.0
+81,2010-12-29,Northeast Division,Actual,Telephone,486.0
+82,2010-12-29,Northeast Division,Budget,Telephone,750.0
+83,2010-12-29,Northeast Division,Budget,Utilities,380.0
+84,2010-12-29,Northeast Division,Actual,Utilities,346.0
+85,2010-12-29,Northeast Division,Actual,Other Expenses,113.0
+86,2010-12-29,Northeast Division,Budget,Other Expenses,100.0
+87,2010-12-29,Northeast Division,Budget,Building Leasehold,380.0
+88,2010-12-29,Northeast Division,Actual,Building Leasehold,449.0
+89,2010-12-29,Northeast Division,Actual,Vehicles,278.0
+90,2010-12-29,Northeast Division,Budget,Vehicles,280.0
+91,2010-12-29,Northeast Division,Budget,Equipment,30.0
+92,2010-12-29,Northeast Division,Actual,Equipment,29.0
+93,2010-12-29,Northeast Division,Actual,Furniture and Fixtures,102.0
+94,2010-12-29,Northeast Division,Budget,Furniture and Fixtures,90.0
+95,2010-12-29,Northeast Division,Budget,Other Assets,80.0
+96,2010-12-29,Northeast Division,Actual,Other Assets,92.0
+97,2010-12-29,Northeast Division,Actual,Amortization of Goodwill,82.0
+98,2010-12-29,Northeast Division,Budget,Amortization of Goodwill,80.0
+99,2010-12-29,Northeast Division,Budget,Rent,380.0
+100,2010-12-29,Northeast Division,Actual,Rent,360.0
+101,2010-12-29,Northeast Division,Actual,Interest Income,179.0
+102,2010-12-29,Northeast Division,Actual,Interest Expense,276.0
+103,2010-12-29,Northeast Division,Actual,Gain/Loss on Sales of Asset,-221.0
+104,2010-12-29,Northeast Division,Actual,Other Income,368.0
+105,2010-12-29,Northeast Division,Actual,Taxes,3642.0
+106,2010-12-29,Northeast Division,Actual,Headcount,8.0
+107,2010-12-29,Northeast Division,Actual,Units,98.0
+108,2010-12-29,Northeast Division,Actual,Square Footage,45000.0
+109,2010-12-29,Northeast Division,Actual,Trade Sales,76475.0
+110,2010-12-29,Northeast Division,Budget,Trade Sales,91800.0
+111,2010-12-29,Northeast Division,Actual,Cash,76978.0
+112,2010-12-29,Northeast Division,Actual,Trade Receivables,124391.0
+113,2010-12-29,Northeast Division,Actual,Other Receivables,3556.0
+114,2010-12-29,Northeast Division,Actual,Allowance for Bad Debt,2487.0
+115,2010-12-29,Northeast Division,Actual,Deferred Taxes,19218.0
+116,2010-12-29,Northeast Division,Actual,Prepaid Expenses,12687.0
+117,2010-12-29,Northeast Division,Actual,Intercompany Receivables,23136.0
+118,2010-12-29,Northeast Division,Actual,Land & Improvements,13720.0
+119,2010-12-29,Northeast Division,Actual,Buildings & Improvements,43720.0
+120,2010-12-29,Northeast Division,Actual,Machinery & Equipment,13445.0
+121,2010-12-29,Northeast Division,Actual,Office Furniture & Equipment,59754.0
+122,2010-12-29,Northeast Division,Actual,Leasehold Improvements,11887.0
+123,2010-12-29,Northeast Division,Actual,Construction In Progress,4908.0
+124,2010-12-29,Northeast Division,Actual,Other Assets,23894.0
+125,2010-12-29,Northeast Division,Actual,Notes Payable,20246.0
+126,2010-12-29,Northeast Division,Actual,Accounts Payable,175368.0
+127,2010-12-29,Northeast Division,Actual,Salary & Other Comp,55708.0
+128,2010-12-29,Northeast Division,Actual,Insurance,29228.0
+129,2010-12-29,Northeast Division,Actual,Warranties,28238.0
+130,2010-12-29,Northeast Division,Actual,Intercompany Payables,9316.0
+131,2010-12-29,Northeast Division,Actual,Other Current Liabilities,42697.0
+132,2010-12-29,Northeast Division,Actual,Long Term Obligations,33491.0
+133,2010-12-29,Northeast Division,Actual,Pension Liability,36417.0
+134,2010-12-29,Northeast Division,Actual,Other Retirement Benefits,55708.0
+135,2010-12-29,Northeast Division,Actual,Other Long Term Liabilities,29546.0
+136,2010-12-29,Northeast Division,Actual,Partner Capital,350000.0
+137,2010-12-29,Northeast Division,Actual,Additional Paid In Capital,-830343.5
+138,2010-12-29,Northeast Division,Actual,Prior Year Retained Earnings,423790.5
+139,2010-12-29,Northeast Division,Actual,Current Retained Earnings,-25508.0
+140,2010-12-29,Northeast Division,Actual,Salaries,5520.0
+141,2010-12-29,Northeast Division,Budget,Salaries,5000.0
+142,2010-12-29,Northeast Division,Budget,Payroll Taxes,480.0
+143,2010-12-29,Northeast Division,Actual,Payroll Taxes,497.0
+144,2010-12-29,Northeast Division,Actual,Employee Benefits,331.0
+145,2010-12-29,Northeast Division,Budget,Employee Benefits,380.0
+146,2010-12-29,Northeast Division,Budget,Travel Transportation,90.0
+147,2010-12-29,Northeast Division,Actual,Travel Transportation,81.0
+148,2010-12-29,Northeast Division,Actual,Travel Lodging,74.0
+149,2010-12-29,Northeast Division,Budget,Travel Lodging,80.0
+150,2010-12-29,Northeast Division,Budget,Meals,40.0
+151,2010-12-29,Northeast Division,Actual,Meals,38.0
+152,2010-12-29,Northeast Division,Actual,Entertainment,29.0
+153,2010-12-29,Northeast Division,Budget,Entertainment,30.0
+154,2010-12-29,Northeast Division,Actual,Other Travel Related,8.0
+155,2010-12-29,Northeast Division,Actual,Conferences,9.0
+156,2010-12-29,Northeast Division,Budget,Conferences,30.0
+157,2010-12-29,Northeast Division,Budget,Office Supplies,80.0
+158,2010-12-29,Northeast Division,Actual,Office Supplies,57.0
+159,2010-12-29,Northeast Division,Actual,Professional Services,86.0
+160,2010-12-29,Northeast Division,Budget,Professional Services,100.0
+161,2010-12-29,Northeast Division,Budget,Telephone,60.0
+162,2010-12-29,Northeast Division,Actual,Telephone,71.0
+163,2010-12-29,Northeast Division,Actual,Utilities,128.0
+164,2010-12-29,Northeast Division,Budget,Utilities,100.0
+165,2010-12-29,Northeast Division,Budget,Other Expenses,40.0
+166,2010-12-29,Northeast Division,Actual,Other Expenses,39.0
+167,2010-12-29,Northeast Division,Actual,Building Leasehold,143.0
+168,2010-12-29,Northeast Division,Budget,Building Leasehold,100.0
+169,2010-12-29,Northeast Division,Budget,Vehicles,90.0
+170,2010-12-29,Northeast Division,Actual,Vehicles,89.0
+171,2010-12-29,Northeast Division,Actual,Equipment,9.0
+172,2010-12-29,Northeast Division,Budget,Equipment,10.0
+173,2010-12-29,Northeast Division,Budget,Furniture and Fixtures,30.0
+174,2010-12-29,Northeast Division,Actual,Furniture and Fixtures,30.0
+175,2010-12-29,Northeast Division,Actual,Other Assets,25.0
+176,2010-12-29,Northeast Division,Budget,Other Assets,30.0
+177,2010-12-29,Northeast Division,Budget,Amortization of Goodwill,20.0
+178,2010-12-29,Northeast Division,Actual,Amortization of Goodwill,24.0
+179,2010-12-29,Northeast Division,Actual,Rent,135.0
+180,2010-12-29,Northeast Division,Budget,Rent,100.0
+181,2010-12-29,Northeast Division,Actual,Interest Income,48.0
+182,2010-12-29,Northeast Division,Actual,Interest Expense,73.0
+183,2010-12-29,Northeast Division,Actual,Gain/Loss on Sales of Asset,-58.0
+184,2010-12-29,Northeast Division,Actual,Other Income,98.0
+185,2010-12-29,Northeast Division,Actual,Taxes,52.0
+186,2010-12-29,Northeast Division,Actual,Headcount,3.0
+187,2010-12-29,Northeast Division,Actual,Current Installments of Long-term Debt,23076.0
+188,2010-12-29,Northwest Division,Actual,Salaries,43120.0
+189,2010-12-29,Northwest Division,Budget,Salaries,40900.0
+190,2010-12-29,Northwest Division,Budget,Payroll Taxes,4000.0
+191,2010-12-29,Northwest Division,Actual,Payroll Taxes,5174.0
+192,2010-12-29,Northwest Division,Actual,Employee Benefits,3449.0
+193,2010-12-29,Northwest Division,Budget,Employee Benefits,3600.0
+194,2010-12-29,Northwest Division,Budget,Travel Transportation,850.0
+195,2010-12-29,Northwest Division,Actual,Travel Transportation,770.0
+196,2010-12-29,Northwest Division,Actual,Travel Lodging,700.0
+197,2010-12-29,Northwest Division,Budget,Travel Lodging,750.0
+198,2010-12-29,Northwest Division,Budget,Meals,380.0
+199,2010-12-29,Northwest Division,Actual,Meals,352.0
+200,2010-12-29,Northwest Division,Actual,Entertainment,264.0
+201,2010-12-29,Northwest Division,Budget,Entertainment,280.0
+202,2010-12-29,Northwest Division,Actual,Other Travel Related,77.0
+203,2010-12-29,Northwest Division,Actual,Conferences,99.0
+204,2010-12-29,Northwest Division,Budget,Conferences,110.0
+205,2010-12-29,Northwest Division,Budget,Office Supplies,500.0
+206,2010-12-29,Northwest Division,Actual,Office Supplies,486.0
+207,2010-12-29,Northwest Division,Actual,Professional Services,240.0
+208,2010-12-29,Northwest Division,Budget,Professional Services,280.0
+209,2010-12-29,Northwest Division,Budget,Telephone,550.0
+210,2010-12-29,Northwest Division,Actual,Telephone,561.0
+211,2010-12-29,Northwest Division,Actual,Utilities,1009.0
+212,2010-12-29,Northwest Division,Budget,Utilities,950.0
+213,2010-12-29,Northwest Division,Budget,Other Expenses,280.0
+214,2010-12-29,Northwest Division,Actual,Other Expenses,277.0
+215,2010-12-29,Northwest Division,Actual,Building Leasehold,1051.0
+216,2010-12-29,Northwest Division,Budget,Building Leasehold,1000.0
+217,2010-12-29,Northwest Division,Budget,Vehicles,650.0
+218,2010-12-29,Northwest Division,Actual,Vehicles,650.0
+219,2010-12-29,Northwest Division,Actual,Equipment,62.0
+220,2010-12-29,Northwest Division,Budget,Equipment,70.0
+221,2010-12-29,Northwest Division,Budget,Furniture and Fixtures,200.0
+222,2010-12-29,Northwest Division,Actual,Furniture and Fixtures,217.0
+223,2010-12-29,Northwest Division,Actual,Other Assets,180.0
+224,2010-12-29,Northwest Division,Budget,Other Assets,200.0
+225,2010-12-29,Northwest Division,Budget,Amortization of Goodwill,200.0
+226,2010-12-29,Northwest Division,Actual,Amortization of Goodwill,174.0
+227,2010-12-29,Northwest Division,Actual,Rent,990.0
+228,2010-12-29,Northwest Division,Budget,Rent,850.0
+229,2010-12-29,Northwest Division,Actual,Interest Income,176.0
+230,2010-12-29,Northwest Division,Actual,Interest Expense,270.0
+231,2010-12-29,Northwest Division,Actual,Gain/Loss on Sales of Asset,-216.0
+232,2010-12-29,Northwest Division,Actual,Other Income,360.0
+233,2010-12-29,Northwest Division,Actual,Taxes,96.0
+234,2010-12-29,Northwest Division,Actual,Headcount,11.0
+235,2010-12-29,Northwest Division,Actual,Finished Goods,34545.0
+236,2010-12-29,Northwest Division,Actual,Intercompany Sales,4505.0
+237,2010-12-29,Northwest Division,Budget,Intercompany Sales,3900.0
+238,2010-12-29,Northwest Division,Budget,Returns and Adjustments,-1600.0
+239,2010-12-29,Northwest Division,Actual,Returns and Adjustments,-1126.0
+240,2010-12-29,Northwest Division,Actual,Standard Cost of Sales,42417.0
+241,2010-12-29,Northwest Division,Budget,Standard Cost of Sales,55000.0
+242,2010-12-29,Northwest Division,Budget,Variances,1500.0
+243,2010-12-29,Northwest Division,Actual,Variances,938.0
+244,2010-12-29,Northwest Division,Actual,Salaries,26040.0
+245,2010-12-29,Northwest Division,Budget,Salaries,22700.0
+246,2010-12-29,Northwest Division,Budget,Payroll Taxes,2000.0
+247,2010-12-29,Northwest Division,Actual,Payroll Taxes,2083.0
+248,2010-12-29,Northwest Division,Actual,Employee Benefits,1562.0
+249,2010-12-29,Northwest Division,Budget,Employee Benefits,1600.0
+250,2010-12-29,Northwest Division,Budget,Commissions,6200.0
+251,2010-12-29,Northwest Division,Actual,Commissions,3379.0
+252,2010-12-29,Northwest Division,Actual,Travel Transportation,378.0
+253,2010-12-29,Northwest Division,Budget,Travel Transportation,380.0
+254,2010-12-29,Northwest Division,Budget,Travel Lodging,380.0
+255,2010-12-29,Northwest Division,Actual,Travel Lodging,343.0
+256,2010-12-29,Northwest Division,Actual,Meals,182.0
+257,2010-12-29,Northwest Division,Budget,Meals,200.0
+258,2010-12-29,Northwest Division,Budget,Entertainment,100.0
+259,2010-12-29,Northwest Division,Actual,Entertainment,133.0
+260,2010-12-29,Northwest Division,Actual,Other Travel Related,38.0
+261,2010-12-29,Northwest Division,Actual,Conferences,63.0
+262,2010-12-29,Northwest Division,Budget,Conferences,70.0
+263,2010-12-29,Northwest Division,Budget,Marketing Collateral,380.0
+264,2010-12-29,Northwest Division,Actual,Marketing Collateral,225.0
+265,2010-12-29,Northwest Division,Actual,Office Supplies,263.0
+266,2010-12-29,Northwest Division,Budget,Office Supplies,300.0
+267,2010-12-29,Northwest Division,Budget,Professional Services,200.0
+268,2010-12-29,Northwest Division,Actual,Professional Services,187.0
+269,2010-12-29,Northwest Division,Actual,Telephone,1201.0
+270,2010-12-29,Northwest Division,Budget,Telephone,1500.0
+271,2010-12-29,Northwest Division,Budget,Utilities,550.0
+272,2010-12-29,Northwest Division,Actual,Utilities,604.0
+273,2010-12-29,Northwest Division,Actual,Other Expenses,193.0
+274,2010-12-29,Northwest Division,Budget,Other Expenses,200.0
+275,2010-12-29,Northwest Division,Budget,Building Leasehold,650.0
+276,2010-12-29,Northwest Division,Actual,Building Leasehold,749.0
+277,2010-12-29,Northwest Division,Actual,Vehicles,464.0
+278,2010-12-29,Northwest Division,Budget,Vehicles,380.0
+279,2010-12-29,Northwest Division,Budget,Equipment,50.0
+280,2010-12-29,Northwest Division,Actual,Equipment,47.0
+281,2010-12-29,Northwest Division,Actual,Furniture and Fixtures,165.0
+282,2010-12-29,Northwest Division,Budget,Furniture and Fixtures,100.0
+283,2010-12-29,Northwest Division,Budget,Other Assets,100.0
+284,2010-12-29,Northwest Division,Actual,Other Assets,145.0
+285,2010-12-29,Northwest Division,Actual,Amortization of Goodwill,132.0
+286,2010-12-29,Northwest Division,Budget,Amortization of Goodwill,100.0
+287,2010-12-29,Northwest Division,Budget,Rent,550.0
+288,2010-12-29,Northwest Division,Actual,Rent,630.0
+289,2010-12-29,Northwest Division,Actual,Interest Income,142.0
+290,2010-12-29,Northwest Division,Actual,Interest Expense,218.0
+291,2010-12-29,Northwest Division,Actual,Gain/Loss on Sales of Asset,-174.0
+292,2010-12-29,Northwest Division,Actual,Other Income,291.0
+293,2010-12-29,Northwest Division,Actual,Taxes,3303.0
+294,2010-12-29,Northwest Division,Actual,Headcount,7.0
+295,2010-12-29,Northwest Division,Actual,Units,95.0
+296,2010-12-29,Northwest Division,Actual,Square Footage,63000.0
+297,2010-12-29,Northwest Division,Budget,Trade Sales,123900.0
+298,2010-12-29,Northwest Division,Actual,Trade Sales,112648.0
+299,2010-12-29,Northwest Division,Actual,Cash,138120.0
+300,2010-12-29,Northwest Division,Actual,Trade Receivables,172658.0
+301,2010-12-29,Northwest Division,Actual,Other Receivables,5181.0
+302,2010-12-29,Northwest Division,Actual,Allowance for Bad Debt,3453.0
+303,2010-12-29,Northwest Division,Actual,Deferred Taxes,23826.0
+304,2010-12-29,Northwest Division,Actual,Prepaid Expenses,16229.0
+305,2010-12-29,Northwest Division,Actual,Intercompany Receivables,31769.0
+306,2010-12-29,Northwest Division,Actual,Land & Improvements,10976.0
+307,2010-12-29,Northwest Division,Actual,Buildings & Improvements,34976.0
+308,2010-12-29,Northwest Division,Actual,Machinery & Equipment,10646.0
+309,2010-12-29,Northwest Division,Actual,Office Furniture & Equipment,48713.0
+310,2010-12-29,Northwest Division,Actual,Leasehold Improvements,9416.0
+311,2010-12-29,Northwest Division,Actual,Construction In Progress,3849.0
+312,2010-12-29,Northwest Division,Actual,Other Assets,20310.0
+313,2010-12-29,Northwest Division,Actual,Notes Payable,16196.0
+314,2010-12-29,Northwest Division,Actual,Accounts Payable,149442.0
+315,2010-12-29,Northwest Division,Actual,Salary & Other Comp,46294.0
+316,2010-12-29,Northwest Division,Actual,Insurance,25924.0
+317,2010-12-29,Northwest Division,Actual,Warranties,21738.0
+318,2010-12-29,Northwest Division,Actual,Intercompany Payables,12448.0
+319,2010-12-29,Northwest Division,Actual,Other Current Liabilities,32590.0
+320,2010-12-29,Northwest Division,Actual,Long Term Obligations,25665.0
+321,2010-12-29,Northwest Division,Actual,Pension Liability,26166.0
+322,2010-12-29,Northwest Division,Actual,Other Retirement Benefits,45395.0
+323,2010-12-29,Northwest Division,Actual,Other Long Term Liabilities,23636.0
+324,2010-12-29,Northwest Division,Actual,Partner Capital,350000.0
+325,2010-12-29,Northwest Division,Actual,Additional Paid In Capital,-491124.0
+326,2010-12-29,Northwest Division,Actual,Prior Year Retained Earnings,291070.0
+327,2010-12-29,Northwest Division,Actual,Current Retained Earnings,-27492.0
+328,2010-12-29,Northwest Division,Actual,Current Installments of Long-term Debt,16719.0
+329,2010-12-29,Central Division,Actual,Salaries,33920.0
+330,2010-12-29,Central Division,Budget,Salaries,31600.0
+331,2010-12-29,Central Division,Budget,Payroll Taxes,2700.0
+332,2010-12-29,Central Division,Actual,Payroll Taxes,3731.0
+333,2010-12-29,Central Division,Actual,Employee Benefits,2035.0
+334,2010-12-29,Central Division,Budget,Employee Benefits,1900.0
+335,2010-12-29,Central Division,Budget,Travel Transportation,480.0
+336,2010-12-29,Central Division,Actual,Travel Transportation,440.0
+337,2010-12-29,Central Division,Actual,Travel Lodging,400.0
+338,2010-12-29,Central Division,Budget,Travel Lodging,380.0
+339,2010-12-29,Central Division,Budget,Meals,200.0
+340,2010-12-29,Central Division,Actual,Meals,208.0
+341,2010-12-29,Central Division,Actual,Entertainment,152.0
+342,2010-12-29,Central Division,Budget,Entertainment,200.0
+343,2010-12-29,Central Division,Actual,Other Travel Related,44.0
+344,2010-12-29,Central Division,Actual,Conferences,64.0
+345,2010-12-29,Central Division,Budget,Conferences,90.0
+346,2010-12-29,Central Division,Budget,Office Supplies,300.0
+347,2010-12-29,Central Division,Actual,Office Supplies,301.0
+348,2010-12-29,Central Division,Actual,Professional Services,192.0
+349,2010-12-29,Central Division,Budget,Professional Services,200.0
+350,2010-12-29,Central Division,Budget,Telephone,380.0
+351,2010-12-29,Central Division,Actual,Telephone,384.0
+352,2010-12-29,Central Division,Actual,Utilities,691.0
+353,2010-12-29,Central Division,Budget,Utilities,650.0
+354,2010-12-29,Central Division,Budget,Other Expenses,200.0
+355,2010-12-29,Central Division,Actual,Other Expenses,210.0
+356,2010-12-29,Central Division,Actual,Building Leasehold,806.0
+357,2010-12-29,Central Division,Budget,Building Leasehold,850.0
+358,2010-12-29,Central Division,Budget,Vehicles,550.0
+359,2010-12-29,Central Division,Actual,Vehicles,499.0
+360,2010-12-29,Central Division,Actual,Equipment,49.0
+361,2010-12-29,Central Division,Budget,Equipment,60.0
+362,2010-12-29,Central Division,Budget,Furniture and Fixtures,200.0
+363,2010-12-29,Central Division,Actual,Furniture and Fixtures,172.0
+364,2010-12-29,Central Division,Actual,Other Assets,147.0
+365,2010-12-29,Central Division,Budget,Other Assets,200.0
+366,2010-12-29,Central Division,Budget,Amortization of Goodwill,200.0
+367,2010-12-29,Central Division,Actual,Amortization of Goodwill,138.0
+368,2010-12-29,Central Division,Actual,Rent,720.0
+369,2010-12-29,Central Division,Budget,Rent,750.0
+370,2010-12-29,Central Division,Actual,Interest Income,144.0
+371,2010-12-29,Central Division,Actual,Interest Expense,220.0
+372,2010-12-29,Central Division,Actual,Gain/Loss on Sales of Asset,-176.0
+373,2010-12-29,Central Division,Actual,Other Income,294.0
+374,2010-12-29,Central Division,Actual,Taxes,219.0
+375,2010-12-29,Central Division,Actual,Headcount,8.0
+376,2010-12-29,Central Division,Actual,Finished Goods,17392.0
+377,2010-12-29,Central Division,Actual,Intercompany Sales,1683.0
+378,2010-12-29,Central Division,Budget,Intercompany Sales,2200.0
+379,2010-12-29,Central Division,Budget,Returns and Adjustments,-250.0
+380,2010-12-29,Central Division,Actual,Returns and Adjustments,-561.0
+381,2010-12-29,Central Division,Actual,Standard Cost of Sales,21575.0
+382,2010-12-29,Central Division,Budget,Standard Cost of Sales,22700.0
+383,2010-12-29,Central Division,Budget,Variances,500.0
+384,2010-12-29,Central Division,Actual,Variances,467.0
+385,2010-12-29,Central Division,Actual,Salaries,25480.0
+386,2010-12-29,Central Division,Budget,Salaries,26400.0
+387,2010-12-29,Central Division,Budget,Payroll Taxes,2600.0
+388,2010-12-29,Central Division,Actual,Payroll Taxes,2038.0
+389,2010-12-29,Central Division,Actual,Employee Benefits,2293.0
+390,2010-12-29,Central Division,Budget,Employee Benefits,1800.0
+391,2010-12-29,Central Division,Budget,Commissions,8700.0
+392,2010-12-29,Central Division,Actual,Commissions,2244.0
+393,2010-12-29,Central Division,Actual,Travel Transportation,553.0
+394,2010-12-29,Central Division,Budget,Travel Transportation,380.0
+395,2010-12-29,Central Division,Budget,Travel Lodging,380.0
+396,2010-12-29,Central Division,Actual,Travel Lodging,503.0
+397,2010-12-29,Central Division,Actual,Meals,252.0
+398,2010-12-29,Central Division,Budget,Meals,200.0
+399,2010-12-29,Central Division,Budget,Entertainment,200.0
+400,2010-12-29,Central Division,Actual,Entertainment,189.0
+401,2010-12-29,Central Division,Actual,Other Travel Related,55.0
+402,2010-12-29,Central Division,Actual,Conferences,49.0
+403,2010-12-29,Central Division,Budget,Conferences,70.0
+404,2010-12-29,Central Division,Budget,Marketing Collateral,280.0
+405,2010-12-29,Central Division,Actual,Marketing Collateral,168.0
+406,2010-12-29,Central Division,Actual,Office Supplies,336.0
+407,2010-12-29,Central Division,Budget,Office Supplies,300.0
+408,2010-12-29,Central Division,Budget,Professional Services,200.0
+409,2010-12-29,Central Division,Actual,Professional Services,248.0
+410,2010-12-29,Central Division,Actual,Telephone,846.0
+411,2010-12-29,Central Division,Budget,Telephone,1700.0
+412,2010-12-29,Central Division,Budget,Utilities,550.0
+413,2010-12-29,Central Division,Actual,Utilities,667.0
+414,2010-12-29,Central Division,Actual,Other Expenses,178.0
+415,2010-12-29,Central Division,Budget,Other Expenses,200.0
+416,2010-12-29,Central Division,Budget,Building Leasehold,650.0
+417,2010-12-29,Central Division,Actual,Building Leasehold,668.0
+418,2010-12-29,Central Division,Actual,Vehicles,414.0
+419,2010-12-29,Central Division,Budget,Vehicles,480.0
+420,2010-12-29,Central Division,Budget,Equipment,40.0
+421,2010-12-29,Central Division,Actual,Equipment,40.0
+422,2010-12-29,Central Division,Actual,Furniture and Fixtures,140.0
+423,2010-12-29,Central Division,Budget,Furniture and Fixtures,200.0
+424,2010-12-29,Central Division,Budget,Other Assets,100.0
+425,2010-12-29,Central Division,Actual,Other Assets,116.0
+426,2010-12-29,Central Division,Actual,Amortization of Goodwill,112.0
+427,2010-12-29,Central Division,Budget,Amortization of Goodwill,100.0
+428,2010-12-29,Central Division,Budget,Rent,550.0
+429,2010-12-29,Central Division,Actual,Rent,630.0
+430,2010-12-29,Central Division,Actual,Interest Income,113.0
+431,2010-12-29,Central Division,Actual,Interest Expense,174.0
+432,2010-12-29,Central Division,Actual,Gain/Loss on Sales of Asset,-139.0
+433,2010-12-29,Central Division,Actual,Other Income,232.0
+434,2010-12-29,Central Division,Actual,Taxes,4254.0
+435,2010-12-29,Central Division,Actual,Headcount,7.0
+436,2010-12-29,Central Division,Actual,Units,95.0
+437,2010-12-29,Central Division,Actual,Square Footage,38500.0
+438,2010-12-29,Central Division,Budget,Trade Sales,53300.0
+439,2010-12-29,Central Division,Actual,Trade Sales,56105.0
+440,2010-12-29,Central Division,Actual,Cash,64261.0
+441,2010-12-29,Central Division,Actual,Trade Receivables,95647.0
+442,2010-12-29,Central Division,Actual,Other Receivables,2552.0
+443,2010-12-29,Central Division,Actual,Allowance for Bad Debt,1912.0
+444,2010-12-29,Central Division,Actual,Deferred Taxes,15064.0
+445,2010-12-29,Central Division,Actual,Prepaid Expenses,10425.0
+446,2010-12-29,Central Division,Actual,Intercompany Receivables,17407.0
+447,2010-12-29,Central Division,Actual,Land & Improvements,8232.0
+448,2010-12-29,Central Division,Actual,Buildings & Improvements,26232.0
+449,2010-12-29,Central Division,Actual,Machinery & Equipment,7738.0
+450,2010-12-29,Central Division,Actual,Office Furniture & Equipment,43030.0
+451,2010-12-29,Central Division,Actual,Leasehold Improvements,7062.0
+452,2010-12-29,Central Division,Actual,Construction In Progress,2886.0
+453,2010-12-29,Central Division,Actual,Other Assets,15979.0
+454,2010-12-29,Central Division,Actual,Notes Payable,13062.0
+455,2010-12-29,Central Division,Actual,Accounts Payable,114372.0
+456,2010-12-29,Central Division,Actual,Salary & Other Comp,34833.0
+457,2010-12-29,Central Division,Actual,Insurance,17346.0
+458,2010-12-29,Central Division,Actual,Warranties,16943.0
+459,2010-12-29,Central Division,Actual,Intercompany Payables,6427.0
+460,2010-12-29,Central Division,Actual,Other Current Liabilities,23503.0
+461,2010-12-29,Central Division,Actual,Long Term Obligations,19883.0
+462,2010-12-29,Central Division,Actual,Pension Liability,20232.0
+463,2010-12-29,Central Division,Actual,Other Retirement Benefits,35207.0
+464,2010-12-29,Central Division,Actual,Other Long Term Liabilities,19062.0
+465,2010-12-29,Central Division,Actual,Partner Capital,350000.0
+466,2010-12-29,Central Division,Actual,Additional Paid In Capital,-657203.8
+467,2010-12-29,Central Division,Actual,Prior Year Retained Earnings,359790.8
+468,2010-12-29,Central Division,Actual,Current Retained Earnings,-51614.0
+469,2010-12-29,Central Division,Actual,Current Installments of Long-term Debt,13976.0
+470,2010-12-29,Southeast Division,Actual,Salaries,20800.0
+471,2010-12-29,Southeast Division,Budget,Salaries,19800.0
+472,2010-12-29,Southeast Division,Budget,Payroll Taxes,1800.0
+473,2010-12-29,Southeast Division,Actual,Payroll Taxes,2080.0
+474,2010-12-29,Southeast Division,Actual,Employee Benefits,1040.0
+475,2010-12-29,Southeast Division,Budget,Employee Benefits,1200.0
+476,2010-12-29,Southeast Division,Budget,Travel Transportation,280.0
+477,2010-12-29,Southeast Division,Actual,Travel Transportation,218.0
+478,2010-12-29,Southeast Division,Actual,Travel Lodging,198.0
+479,2010-12-29,Southeast Division,Budget,Travel Lodging,280.0
+480,2010-12-29,Southeast Division,Budget,Meals,100.0
+481,2010-12-29,Southeast Division,Actual,Meals,109.0
+482,2010-12-29,Southeast Division,Actual,Entertainment,78.0
+483,2010-12-29,Southeast Division,Budget,Entertainment,100.0
+484,2010-12-29,Southeast Division,Actual,Other Travel Related,22.0
+485,2010-12-29,Southeast Division,Actual,Conferences,31.0
+486,2010-12-29,Southeast Division,Budget,Conferences,60.0
+487,2010-12-29,Southeast Division,Budget,Office Supplies,220.0
+488,2010-12-29,Southeast Division,Actual,Office Supplies,169.0
+489,2010-12-29,Southeast Division,Actual,Professional Services,105.0
+490,2010-12-29,Southeast Division,Budget,Professional Services,100.0
+491,2010-12-29,Southeast Division,Budget,Telephone,200.0
+492,2010-12-29,Southeast Division,Actual,Telephone,237.0
+493,2010-12-29,Southeast Division,Actual,Utilities,426.0
+494,2010-12-29,Southeast Division,Budget,Utilities,380.0
+495,2010-12-29,Southeast Division,Budget,Other Expenses,100.0
+496,2010-12-29,Southeast Division,Actual,Other Expenses,147.0
+497,2010-12-29,Southeast Division,Actual,Building Leasehold,584.0
+498,2010-12-29,Southeast Division,Budget,Building Leasehold,550.0
+499,2010-12-29,Southeast Division,Budget,Vehicles,280.0
+500,2010-12-29,Southeast Division,Actual,Vehicles,361.0
+501,2010-12-29,Southeast Division,Actual,Equipment,38.0
+502,2010-12-29,Southeast Division,Budget,Equipment,30.0
+503,2010-12-29,Southeast Division,Budget,Furniture and Fixtures,100.0
+504,2010-12-29,Southeast Division,Actual,Furniture and Fixtures,133.0
+505,2010-12-29,Southeast Division,Actual,Other Assets,118.0
+506,2010-12-29,Southeast Division,Budget,Other Assets,100.0
+507,2010-12-29,Southeast Division,Budget,Amortization of Goodwill,90.0
+508,2010-12-29,Southeast Division,Actual,Amortization of Goodwill,106.0
+509,2010-12-29,Southeast Division,Actual,Rent,468.0
+510,2010-12-29,Southeast Division,Budget,Rent,480.0
+511,2010-12-29,Southeast Division,Actual,Interest Income,177.0
+512,2010-12-29,Southeast Division,Actual,Interest Expense,273.0
+513,2010-12-29,Southeast Division,Actual,Gain/Loss on Sales of Asset,-218.0
+514,2010-12-29,Southeast Division,Actual,Other Income,364.0
+515,2010-12-29,Southeast Division,Actual,Taxes,82.0
+516,2010-12-29,Southeast Division,Actual,Headcount,8.0
+517,2010-12-29,Southeast Division,Actual,Finished Goods,38012.0
+518,2010-12-29,Southeast Division,Actual,Salaries,7800.0
+519,2010-12-29,Southeast Division,Budget,Salaries,6600.0
+520,2010-12-29,Southeast Division,Budget,Payroll Taxes,550.0
+521,2010-12-29,Southeast Division,Actual,Payroll Taxes,624.0
+522,2010-12-29,Southeast Division,Actual,Employee Benefits,780.0
+523,2010-12-29,Southeast Division,Budget,Employee Benefits,480.0
+524,2010-12-29,Southeast Division,Budget,Travel Transportation,100.0
+525,2010-12-29,Southeast Division,Actual,Travel Transportation,164.0
+526,2010-12-29,Southeast Division,Actual,Travel Lodging,149.0
+527,2010-12-29,Southeast Division,Budget,Travel Lodging,100.0
+528,2010-12-29,Southeast Division,Budget,Meals,60.0
+529,2010-12-29,Southeast Division,Actual,Meals,74.0
+530,2010-12-29,Southeast Division,Actual,Entertainment,55.0
+531,2010-12-29,Southeast Division,Budget,Entertainment,40.0
+532,2010-12-29,Southeast Division,Actual,Other Travel Related,16.0
+533,2010-12-29,Southeast Division,Actual,Conferences,16.0
+534,2010-12-29,Southeast Division,Budget,Conferences,30.0
+535,2010-12-29,Southeast Division,Budget,Office Supplies,100.0
+536,2010-12-29,Southeast Division,Actual,Office Supplies,96.0
+537,2010-12-29,Southeast Division,Actual,Professional Services,160.0
+538,2010-12-29,Southeast Division,Budget,Professional Services,100.0
+539,2010-12-29,Southeast Division,Budget,Telephone,90.0
+540,2010-12-29,Southeast Division,Actual,Telephone,105.0
+541,2010-12-29,Southeast Division,Actual,Utilities,189.0
+542,2010-12-29,Southeast Division,Budget,Utilities,200.0
+543,2010-12-29,Southeast Division,Budget,Other Expenses,50.0
+544,2010-12-29,Southeast Division,Actual,Other Expenses,61.0
+545,2010-12-29,Southeast Division,Actual,Building Leasehold,209.0
+546,2010-12-29,Southeast Division,Budget,Building Leasehold,200.0
+547,2010-12-29,Southeast Division,Budget,Vehicles,100.0
+548,2010-12-29,Southeast Division,Actual,Vehicles,129.0
+549,2010-12-29,Southeast Division,Actual,Equipment,13.0
+550,2010-12-29,Southeast Division,Budget,Equipment,10.0
+551,2010-12-29,Southeast Division,Budget,Furniture and Fixtures,40.0
+552,2010-12-29,Southeast Division,Actual,Furniture and Fixtures,46.0
+553,2010-12-29,Southeast Division,Actual,Other Assets,40.0
+554,2010-12-29,Southeast Division,Budget,Other Assets,30.0
+555,2010-12-29,Southeast Division,Budget,Amortization of Goodwill,30.0
+556,2010-12-29,Southeast Division,Actual,Amortization of Goodwill,36.0
+557,2010-12-29,Southeast Division,Actual,Rent,176.0
+558,2010-12-29,Southeast Division,Budget,Rent,200.0
+559,2010-12-29,Southeast Division,Actual,Interest Income,60.0
+560,2010-12-29,Southeast Division,Actual,Interest Expense,93.0
+561,2010-12-29,Southeast Division,Actual,Gain/Loss on Sales of Asset,-74.0
+562,2010-12-29,Southeast Division,Actual,Other Income,124.0
+563,2010-12-29,Southeast Division,Actual,Taxes,29.0
+564,2010-12-29,Southeast Division,Actual,Headcount,3.0
+565,2010-12-29,Southeast Division,Actual,Raw Materials,308472.0
+566,2010-12-29,Southeast Division,Actual,Work in Process,176270.0
+567,2010-12-29,Southeast Division,Actual,Salaries,22698.0
+568,2010-12-29,Southeast Division,Budget,Salaries,23000.0
+569,2010-12-29,Southeast Division,Budget,Payroll Taxes,2300.0
+570,2010-12-29,Southeast Division,Actual,Payroll Taxes,2497.0
+571,2010-12-29,Southeast Division,Actual,Employee Benefits,2042.0
+572,2010-12-29,Southeast Division,Budget,Employee Benefits,1700.0
+573,2010-12-29,Southeast Division,Budget,Travel Transportation,380.0
+574,2010-12-29,Southeast Division,Actual,Travel Transportation,468.0
+575,2010-12-29,Southeast Division,Actual,Travel Lodging,426.0
+576,2010-12-29,Southeast Division,Budget,Travel Lodging,380.0
+577,2010-12-29,Southeast Division,Budget,Meals,200.0
+578,2010-12-29,Southeast Division,Actual,Meals,211.0
+579,2010-12-29,Southeast Division,Actual,Entertainment,158.0
+580,2010-12-29,Southeast Division,Budget,Entertainment,200.0
+581,2010-12-29,Southeast Division,Actual,Other Travel Related,47.0
+582,2010-12-29,Southeast Division,Actual,Conferences,35.0
+583,2010-12-29,Southeast Division,Budget,Conferences,70.0
+584,2010-12-29,Southeast Division,Budget,Office Supplies,300.0
+585,2010-12-29,Southeast Division,Actual,Office Supplies,281.0
+586,2010-12-29,Southeast Division,Actual,Professional Services,167.0
+587,2010-12-29,Southeast Division,Budget,Professional Services,100.0
+588,2010-12-29,Southeast Division,Budget,Telephone,280.0
+589,2010-12-29,Southeast Division,Actual,Telephone,310.0
+590,2010-12-29,Southeast Division,Actual,Utilities,558.0
+591,2010-12-29,Southeast Division,Budget,Utilities,550.0
+592,2010-12-29,Southeast Division,Budget,Other Expenses,200.0
+593,2010-12-29,Southeast Division,Actual,Other Expenses,154.0
+594,2010-12-29,Southeast Division,Actual,Building Leasehold,602.0
+595,2010-12-29,Southeast Division,Budget,Building Leasehold,550.0
+596,2010-12-29,Southeast Division,Budget,Vehicles,380.0
+597,2010-12-29,Southeast Division,Actual,Vehicles,372.0
+598,2010-12-29,Southeast Division,Actual,Equipment,37.0
+599,2010-12-29,Southeast Division,Budget,Equipment,40.0
+600,2010-12-29,Southeast Division,Budget,Furniture and Fixtures,200.0
+601,2010-12-29,Southeast Division,Actual,Furniture and Fixtures,130.0
+602,2010-12-29,Southeast Division,Actual,Other Assets,112.0
+603,2010-12-29,Southeast Division,Budget,Other Assets,100.0
+604,2010-12-29,Southeast Division,Budget,Amortization of Goodwill,100.0
+605,2010-12-29,Southeast Division,Actual,Amortization of Goodwill,104.0
+606,2010-12-29,Southeast Division,Actual,Rent,527.0
+607,2010-12-29,Southeast Division,Budget,Rent,480.0
+608,2010-12-29,Southeast Division,Actual,Interest Income,168.0
+609,2010-12-29,Southeast Division,Actual,Interest Expense,259.0
+610,2010-12-29,Southeast Division,Actual,Gain/Loss on Sales of Asset,-207.0
+611,2010-12-29,Southeast Division,Actual,Other Income,345.0
+612,2010-12-29,Southeast Division,Actual,Taxes,84.0
+613,2010-12-29,Southeast Division,Actual,Headcount,9.0
+614,2010-12-29,Southeast Division,Actual,Salaries,16692.0
+615,2010-12-29,Southeast Division,Budget,Salaries,17200.0
+616,2010-12-29,Southeast Division,Budget,Payroll Taxes,1500.0
+617,2010-12-29,Southeast Division,Actual,Payroll Taxes,1502.0
+618,2010-12-29,Southeast Division,Actual,Employee Benefits,1168.0
+619,2010-12-29,Southeast Division,Budget,Employee Benefits,1400.0
+620,2010-12-29,Southeast Division,Budget,Travel Transportation,280.0
+621,2010-12-29,Southeast Division,Actual,Travel Transportation,238.0
+622,2010-12-29,Southeast Division,Actual,Travel Lodging,216.0
+623,2010-12-29,Southeast Division,Budget,Travel Lodging,280.0
+624,2010-12-29,Southeast Division,Budget,Meals,100.0
+625,2010-12-29,Southeast Division,Actual,Meals,109.0
+626,2010-12-29,Southeast Division,Actual,Entertainment,82.0
+627,2010-12-29,Southeast Division,Budget,Entertainment,100.0
+628,2010-12-29,Southeast Division,Actual,Other Travel Related,24.0
+629,2010-12-29,Southeast Division,Actual,Conferences,39.0
+630,2010-12-29,Southeast Division,Budget,Conferences,50.0
+631,2010-12-29,Southeast Division,Budget,Office Supplies,220.0
+632,2010-12-29,Southeast Division,Actual,Office Supplies,157.0
+633,2010-12-29,Southeast Division,Actual,Professional Services,129.0
+634,2010-12-29,Southeast Division,Budget,Professional Services,200.0
+635,2010-12-29,Southeast Division,Budget,Telephone,200.0
+636,2010-12-29,Southeast Division,Actual,Telephone,191.0
+637,2010-12-29,Southeast Division,Actual,Utilities,344.0
+638,2010-12-29,Southeast Division,Budget,Utilities,380.0
+639,2010-12-29,Southeast Division,Budget,Other Expenses,100.0
+640,2010-12-29,Southeast Division,Actual,Other Expenses,104.0
+641,2010-12-29,Southeast Division,Actual,Building Leasehold,393.0
+642,2010-12-29,Southeast Division,Budget,Building Leasehold,380.0
+643,2010-12-29,Southeast Division,Budget,Vehicles,280.0
+644,2010-12-29,Southeast Division,Actual,Vehicles,243.0
+645,2010-12-29,Southeast Division,Actual,Equipment,24.0
+646,2010-12-29,Southeast Division,Budget,Equipment,30.0
+647,2010-12-29,Southeast Division,Budget,Furniture and Fixtures,100.0
+648,2010-12-29,Southeast Division,Actual,Furniture and Fixtures,84.0
+649,2010-12-29,Southeast Division,Actual,Other Assets,72.0
+650,2010-12-29,Southeast Division,Budget,Other Assets,90.0
+651,2010-12-29,Southeast Division,Budget,Amortization of Goodwill,80.0
+652,2010-12-29,Southeast Division,Actual,Amortization of Goodwill,67.0
+653,2010-12-29,Southeast Division,Actual,Rent,351.0
+654,2010-12-29,Southeast Division,Budget,Rent,380.0
+655,2010-12-29,Southeast Division,Actual,Interest Income,107.0
+656,2010-12-29,Southeast Division,Actual,Interest Expense,165.0
+657,2010-12-29,Southeast Division,Actual,Gain/Loss on Sales of Asset,-132.0
+658,2010-12-29,Southeast Division,Actual,Other Income,220.0
+659,2010-12-29,Southeast Division,Actual,Taxes,55.0
+660,2010-12-29,Southeast Division,Actual,Headcount,6.0
+661,2010-12-29,Southeast Division,Actual,Salaries,9984.0
+662,2010-12-29,Southeast Division,Budget,Salaries,9700.0
+663,2010-12-29,Southeast Division,Budget,Payroll Taxes,850.0
+664,2010-12-29,Southeast Division,Actual,Payroll Taxes,1098.0
+665,2010-12-29,Southeast Division,Actual,Employee Benefits,898.0
+666,2010-12-29,Southeast Division,Budget,Employee Benefits,750.0
+667,2010-12-29,Southeast Division,Budget,Travel Transportation,200.0
+668,2010-12-29,Southeast Division,Actual,Travel Transportation,198.0
+669,2010-12-29,Southeast Division,Actual,Travel Lodging,179.0
+670,2010-12-29,Southeast Division,Budget,Travel Lodging,100.0
+671,2010-12-29,Southeast Division,Budget,Meals,70.0
+672,2010-12-29,Southeast Division,Actual,Meals,88.0
+673,2010-12-29,Southeast Division,Actual,Entertainment,68.0
+674,2010-12-29,Southeast Division,Budget,Entertainment,60.0
+675,2010-12-29,Southeast Division,Actual,Other Travel Related,20.0
+676,2010-12-29,Southeast Division,Actual,Conferences,18.0
+677,2010-12-29,Southeast Division,Budget,Conferences,40.0
+678,2010-12-29,Southeast Division,Budget,Office Supplies,120.0
+679,2010-12-29,Southeast Division,Actual,Office Supplies,122.0
+680,2010-12-29,Southeast Division,Actual,Professional Services,148.0
+681,2010-12-29,Southeast Division,Budget,Professional Services,100.0
+682,2010-12-29,Southeast Division,Budget,Telephone,100.0
+683,2010-12-29,Southeast Division,Actual,Telephone,135.0
+684,2010-12-29,Southeast Division,Actual,Utilities,243.0
+685,2010-12-29,Southeast Division,Budget,Utilities,200.0
+686,2010-12-29,Southeast Division,Budget,Other Expenses,70.0
+687,2010-12-29,Southeast Division,Actual,Other Expenses,71.0
+688,2010-12-29,Southeast Division,Actual,Building Leasehold,262.0
+689,2010-12-29,Southeast Division,Budget,Building Leasehold,200.0
+690,2010-12-29,Southeast Division,Budget,Vehicles,200.0
+691,2010-12-29,Southeast Division,Actual,Vehicles,162.0
+692,2010-12-29,Southeast Division,Actual,Equipment,16.0
+693,2010-12-29,Southeast Division,Budget,Equipment,20.0
+694,2010-12-29,Southeast Division,Budget,Furniture and Fixtures,50.0
+695,2010-12-29,Southeast Division,Actual,Furniture and Fixtures,55.0
+696,2010-12-29,Southeast Division,Actual,Other Assets,47.0
+697,2010-12-29,Southeast Division,Budget,Other Assets,50.0
+698,2010-12-29,Southeast Division,Budget,Amortization of Goodwill,40.0
+699,2010-12-29,Southeast Division,Actual,Amortization of Goodwill,44.0
+700,2010-12-29,Southeast Division,Actual,Rent,234.0
+701,2010-12-29,Southeast Division,Budget,Rent,200.0
+702,2010-12-29,Southeast Division,Actual,Interest Income,71.0
+703,2010-12-29,Southeast Division,Actual,Interest Expense,109.0
+704,2010-12-29,Southeast Division,Actual,Gain/Loss on Sales of Asset,-87.0
+705,2010-12-29,Southeast Division,Actual,Other Income,145.0
+706,2010-12-29,Southeast Division,Actual,Taxes,36.0
+707,2010-12-29,Southeast Division,Actual,Headcount,4.0
+708,2010-12-29,Southeast Division,Actual,Intercompany Sales,8772.0
+709,2010-12-29,Southeast Division,Budget,Intercompany Sales,8300.0
+710,2010-12-29,Southeast Division,Budget,Returns and Adjustments,4100.0
+711,2010-12-29,Southeast Division,Actual,Returns and Adjustments,3759.0
+712,2010-12-29,Southeast Division,Actual,Standard Cost of Sales,47208.0
+713,2010-12-29,Southeast Division,Budget,Standard Cost of Sales,40600.0
+714,2010-12-29,Southeast Division,Budget,Variances,6700.0
+715,2010-12-29,Southeast Division,Actual,Variances,4177.0
+716,2010-12-29,Southeast Division,Actual,Salaries,17108.0
+717,2010-12-29,Southeast Division,Budget,Salaries,18000.0
+718,2010-12-29,Southeast Division,Budget,Payroll Taxes,1500.0
+719,2010-12-29,Southeast Division,Actual,Payroll Taxes,1539.0
+720,2010-12-29,Southeast Division,Actual,Employee Benefits,1368.0
+721,2010-12-29,Southeast Division,Budget,Employee Benefits,1400.0
+722,2010-12-29,Southeast Division,Budget,Commissions,6900.0
+723,2010-12-29,Southeast Division,Actual,Commissions,2443.0
+724,2010-12-29,Southeast Division,Actual,Travel Transportation,314.0
+725,2010-12-29,Southeast Division,Budget,Travel Transportation,280.0
+726,2010-12-29,Southeast Division,Budget,Travel Lodging,280.0
+727,2010-12-29,Southeast Division,Actual,Travel Lodging,285.0
+728,2010-12-29,Southeast Division,Actual,Meals,146.0
+729,2010-12-29,Southeast Division,Budget,Meals,200.0
+730,2010-12-29,Southeast Division,Budget,Entertainment,100.0
+731,2010-12-29,Southeast Division,Actual,Entertainment,109.0
+732,2010-12-29,Southeast Division,Actual,Other Travel Related,31.0
+733,2010-12-29,Southeast Division,Actual,Conferences,36.0
+734,2010-12-29,Southeast Division,Budget,Conferences,50.0
+735,2010-12-29,Southeast Division,Budget,Marketing Collateral,550.0
+736,2010-12-29,Southeast Division,Actual,Marketing Collateral,244.0
+737,2010-12-29,Southeast Division,Actual,Office Supplies,201.0
+738,2010-12-29,Southeast Division,Budget,Office Supplies,220.0
+739,2010-12-29,Southeast Division,Budget,Professional Services,200.0
+740,2010-12-29,Southeast Division,Actual,Professional Services,145.0
+741,2010-12-29,Southeast Division,Actual,Telephone,896.0
+742,2010-12-29,Southeast Division,Budget,Telephone,1400.0
+743,2010-12-29,Southeast Division,Budget,Utilities,380.0
+744,2010-12-29,Southeast Division,Actual,Utilities,417.0
+745,2010-12-29,Southeast Division,Actual,Other Expenses,126.0
+746,2010-12-29,Southeast Division,Budget,Other Expenses,100.0
+747,2010-12-29,Southeast Division,Budget,Building Leasehold,480.0
+748,2010-12-29,Southeast Division,Actual,Building Leasehold,487.0
+749,2010-12-29,Southeast Division,Actual,Vehicles,302.0
+750,2010-12-29,Southeast Division,Budget,Vehicles,280.0
+751,2010-12-29,Southeast Division,Budget,Equipment,30.0
+752,2010-12-29,Southeast Division,Actual,Equipment,31.0
+753,2010-12-29,Southeast Division,Actual,Furniture and Fixtures,107.0
+754,2010-12-29,Southeast Division,Budget,Furniture and Fixtures,100.0
+755,2010-12-29,Southeast Division,Budget,Other Assets,100.0
+756,2010-12-29,Southeast Division,Actual,Other Assets,94.0
+757,2010-12-29,Southeast Division,Actual,Amortization of Goodwill,86.0
+758,2010-12-29,Southeast Division,Budget,Amortization of Goodwill,90.0
+759,2010-12-29,Southeast Division,Budget,Rent,380.0
+760,2010-12-29,Southeast Division,Actual,Rent,410.0
+761,2010-12-29,Southeast Division,Actual,Interest Income,142.0
+762,2010-12-29,Southeast Division,Actual,Interest Expense,218.0
+763,2010-12-29,Southeast Division,Actual,Gain/Loss on Sales of Asset,-174.0
+764,2010-12-29,Southeast Division,Actual,Other Income,291.0
+765,2010-12-29,Southeast Division,Actual,Taxes,3350.0
+766,2010-12-29,Southeast Division,Actual,Headcount,7.0
+767,2010-12-29,Southeast Division,Actual,Units,135.0
+768,2010-12-29,Southeast Division,Actual,Square Footage,9000.0
+769,2010-12-29,Southeast Division,Budget,Trade Sales,162900.0
+770,2010-12-29,Southeast Division,Actual,Trade Sales,125316.0
+771,2010-12-29,Southeast Division,Actual,Cash,147741.0
+772,2010-12-29,Southeast Division,Actual,Trade Receivables,199915.0
+773,2010-12-29,Southeast Division,Actual,Other Receivables,6077.0
+774,2010-12-29,Southeast Division,Actual,Allowance for Bad Debt,3998.0
+775,2010-12-29,Southeast Division,Actual,Deferred Taxes,31186.0
+776,2010-12-29,Southeast Division,Actual,Prepaid Expenses,19991.0
+777,2010-12-29,Southeast Division,Actual,Intercompany Receivables,38783.0
+778,2010-12-29,Southeast Division,Actual,Land & Improvements,9604.0
+779,2010-12-29,Southeast Division,Actual,Buildings & Improvements,30604.0
+780,2010-12-29,Southeast Division,Actual,Machinery & Equipment,10564.0
+781,2010-12-29,Southeast Division,Actual,Office Furniture & Equipment,109144.0
+782,2010-12-29,Southeast Division,Actual,Leasehold Improvements,8239.0
+783,2010-12-29,Southeast Division,Actual,Construction In Progress,3402.0
+784,2010-12-29,Southeast Division,Actual,Other Assets,16551.0
+785,2010-12-29,Southeast Division,Actual,Notes Payable,13715.0
+786,2010-12-29,Southeast Division,Actual,Accounts Payable,124092.0
+787,2010-12-29,Southeast Division,Actual,Salary & Other Comp,94236.0
+788,2010-12-29,Southeast Division,Actual,Insurance,24240.0
+789,2010-12-29,Southeast Division,Actual,Warranties,18648.0
+790,2010-12-29,Southeast Division,Actual,Intercompany Payables,14553.0
+791,2010-12-29,Southeast Division,Actual,Other Current Liabilities,29888.0
+792,2010-12-29,Southeast Division,Actual,Long Term Obligations,22950.0
+793,2010-12-29,Southeast Division,Actual,Pension Liability,22187.0
+794,2010-12-29,Southeast Division,Actual,Other Retirement Benefits,89617.0
+795,2010-12-29,Southeast Division,Actual,Other Long Term Liabilities,20015.0
+796,2010-12-29,Southeast Division,Actual,Partner Capital,350000.0
+797,2010-12-29,Southeast Division,Actual,Additional Paid In Capital,-252025.7
+798,2010-12-29,Southeast Division,Actual,Prior Year Retained Earnings,629881.7
+799,2010-12-29,Southeast Division,Actual,Current Retained Earnings,-58073.0
+800,2010-12-29,Southeast Division,Actual,Current Installments of Long-term Debt,14629.0
+801,2010-12-29,Southwest Division,Actual,Salaries,37080.0
+802,2010-12-29,Southwest Division,Budget,Salaries,36600.0
+803,2010-12-29,Southwest Division,Budget,Payroll Taxes,3100.0
+804,2010-12-29,Southwest Division,Actual,Payroll Taxes,2966.0
+805,2010-12-29,Southwest Division,Actual,Employee Benefits,3337.0
+806,2010-12-29,Southwest Division,Budget,Employee Benefits,2800.0
+807,2010-12-29,Southwest Division,Budget,Travel Transportation,550.0
+808,2010-12-29,Southwest Division,Actual,Travel Transportation,711.0
+809,2010-12-29,Southwest Division,Actual,Travel Lodging,647.0
+810,2010-12-29,Southwest Division,Budget,Travel Lodging,550.0
+811,2010-12-29,Southwest Division,Budget,Meals,280.0
+812,2010-12-29,Southwest Division,Actual,Meals,324.0
+813,2010-12-29,Southwest Division,Actual,Entertainment,243.0
+814,2010-12-29,Southwest Division,Budget,Entertainment,200.0
+815,2010-12-29,Southwest Division,Actual,Other Travel Related,71.0
+816,2010-12-29,Southwest Division,Actual,Conferences,63.0
+817,2010-12-29,Southwest Division,Budget,Conferences,90.0
+818,2010-12-29,Southwest Division,Budget,Office Supplies,400.0
+819,2010-12-29,Southwest Division,Actual,Office Supplies,432.0
+820,2010-12-29,Southwest Division,Actual,Professional Services,255.0
+821,2010-12-29,Southwest Division,Budget,Professional Services,200.0
+822,2010-12-29,Southwest Division,Budget,Telephone,380.0
+823,2010-12-29,Southwest Division,Actual,Telephone,477.0
+824,2010-12-29,Southwest Division,Actual,Utilities,858.0
+825,2010-12-29,Southwest Division,Budget,Utilities,850.0
+826,2010-12-29,Southwest Division,Budget,Other Expenses,280.0
+827,2010-12-29,Southwest Division,Actual,Other Expenses,227.0
+828,2010-12-29,Southwest Division,Actual,Building Leasehold,859.0
+829,2010-12-29,Southwest Division,Budget,Building Leasehold,950.0
+830,2010-12-29,Southwest Division,Budget,Vehicles,550.0
+831,2010-12-29,Southwest Division,Actual,Vehicles,532.0
+832,2010-12-29,Southwest Division,Actual,Equipment,51.0
+833,2010-12-29,Southwest Division,Budget,Equipment,60.0
+834,2010-12-29,Southwest Division,Budget,Furniture and Fixtures,200.0
+835,2010-12-29,Southwest Division,Actual,Furniture and Fixtures,178.0
+836,2010-12-29,Southwest Division,Actual,Other Assets,147.0
+837,2010-12-29,Southwest Division,Budget,Other Assets,200.0
+838,2010-12-29,Southwest Division,Budget,Amortization of Goodwill,200.0
+839,2010-12-29,Southwest Division,Actual,Amortization of Goodwill,142.0
+840,2010-12-29,Southwest Division,Actual,Rent,810.0
+841,2010-12-29,Southwest Division,Budget,Rent,750.0
+842,2010-12-29,Southwest Division,Actual,Interest Income,144.0
+843,2010-12-29,Southwest Division,Actual,Interest Expense,221.0
+844,2010-12-29,Southwest Division,Actual,Gain/Loss on Sales of Asset,-177.0
+845,2010-12-29,Southwest Division,Actual,Other Income,295.0
+846,2010-12-29,Southwest Division,Actual,Taxes,273.0
+847,2010-12-29,Southwest Division,Actual,Headcount,9.0
+848,2010-12-29,Southwest Division,Actual,Finished Goods,27642.0
+849,2010-12-29,Southwest Division,Actual,Intercompany Sales,782.0
+850,2010-12-29,Southwest Division,Budget,Intercompany Sales,900.0
+851,2010-12-29,Southwest Division,Budget,Returns and Adjustments,1100.0
+852,2010-12-29,Southwest Division,Actual,Returns and Adjustments,782.0
+853,2010-12-29,Southwest Division,Actual,Standard Cost of Sales,28863.0
+854,2010-12-29,Southwest Division,Budget,Standard Cost of Sales,28900.0
+855,2010-12-29,Southwest Division,Budget,Variances,2300.0
+856,2010-12-29,Southwest Division,Actual,Variances,2607.0
+857,2010-12-29,Southwest Division,Actual,Salaries,28840.0
+858,2010-12-29,Southwest Division,Budget,Salaries,28200.0
+859,2010-12-29,Southwest Division,Budget,Payroll Taxes,2500.0
+860,2010-12-29,Southwest Division,Actual,Payroll Taxes,3172.0
+861,2010-12-29,Southwest Division,Actual,Employee Benefits,2307.0
+862,2010-12-29,Southwest Division,Budget,Employee Benefits,2200.0
+863,2010-12-29,Southwest Division,Budget,Commissions,13500.0
+864,2010-12-29,Southwest Division,Actual,Commissions,2347.0
+865,2010-12-29,Southwest Division,Actual,Travel Transportation,469.0
+866,2010-12-29,Southwest Division,Budget,Travel Transportation,480.0
+867,2010-12-29,Southwest Division,Budget,Travel Lodging,480.0
+868,2010-12-29,Southwest Division,Actual,Travel Lodging,426.0
+869,2010-12-29,Southwest Division,Actual,Meals,217.0
+870,2010-12-29,Southwest Division,Budget,Meals,200.0
+871,2010-12-29,Southwest Division,Budget,Entertainment,200.0
+872,2010-12-29,Southwest Division,Actual,Entertainment,161.0
+873,2010-12-29,Southwest Division,Actual,Other Travel Related,47.0
+874,2010-12-29,Southwest Division,Actual,Conferences,49.0
+875,2010-12-29,Southwest Division,Budget,Conferences,70.0
+876,2010-12-29,Southwest Division,Budget,Marketing Collateral,480.0
+877,2010-12-29,Southwest Division,Actual,Marketing Collateral,156.0
+878,2010-12-29,Southwest Division,Actual,Office Supplies,300.0
+879,2010-12-29,Southwest Division,Budget,Office Supplies,300.0
+880,2010-12-29,Southwest Division,Budget,Professional Services,200.0
+881,2010-12-29,Southwest Division,Actual,Professional Services,217.0
+882,2010-12-29,Southwest Division,Actual,Telephone,985.0
+883,2010-12-29,Southwest Division,Budget,Telephone,3100.0
+884,2010-12-29,Southwest Division,Budget,Utilities,550.0
+885,2010-12-29,Southwest Division,Actual,Utilities,636.0
+886,2010-12-29,Southwest Division,Actual,Other Expenses,179.0
+887,2010-12-29,Southwest Division,Budget,Other Expenses,200.0
+888,2010-12-29,Southwest Division,Budget,Building Leasehold,650.0
+889,2010-12-29,Southwest Division,Actual,Building Leasehold,676.0
+890,2010-12-29,Southwest Division,Actual,Vehicles,418.0
+891,2010-12-29,Southwest Division,Budget,Vehicles,380.0
+892,2010-12-29,Southwest Division,Budget,Equipment,40.0
+893,2010-12-29,Southwest Division,Actual,Equipment,41.0
+894,2010-12-29,Southwest Division,Actual,Furniture and Fixtures,143.0
+895,2010-12-29,Southwest Division,Budget,Furniture and Fixtures,100.0
+896,2010-12-29,Southwest Division,Budget,Other Assets,100.0
+897,2010-12-29,Southwest Division,Actual,Other Assets,119.0
+898,2010-12-29,Southwest Division,Actual,Amortization of Goodwill,114.0
+899,2010-12-29,Southwest Division,Budget,Amortization of Goodwill,100.0
+900,2010-12-29,Southwest Division,Budget,Rent,550.0
+901,2010-12-29,Southwest Division,Actual,Rent,630.0
+902,2010-12-29,Southwest Division,Actual,Interest Income,116.0
+903,2010-12-29,Southwest Division,Actual,Interest Expense,178.0
+904,2010-12-29,Southwest Division,Actual,Gain/Loss on Sales of Asset,-142.0
+905,2010-12-29,Southwest Division,Actual,Other Income,238.0
+906,2010-12-29,Southwest Division,Actual,Taxes,6349.0
+907,2010-12-29,Southwest Division,Actual,Headcount,7.0
+908,2010-12-29,Southwest Division,Actual,Units,171.0
+909,2010-12-29,Southwest Division,Actual,Square Footage,29500.0
+910,2010-12-29,Southwest Division,Budget,Trade Sales,70400.0
+911,2010-12-29,Southwest Division,Actual,Trade Sales,78234.0
+912,2010-12-29,Southwest Division,Actual,Cash,92875.0
+913,2010-12-29,Southwest Division,Actual,Trade Receivables,130923.0
+914,2010-12-29,Southwest Division,Actual,Other Receivables,4029.0
+915,2010-12-29,Southwest Division,Actual,Allowance for Bad Debt,2618.0
+916,2010-12-29,Southwest Division,Actual,Deferred Taxes,20031.0
+917,2010-12-29,Southwest Division,Actual,Prepaid Expenses,13877.0
+918,2010-12-29,Southwest Division,Actual,Intercompany Receivables,26970.0
+919,2010-12-29,Southwest Division,Actual,Land & Improvements,9604.0
+920,2010-12-29,Southwest Division,Actual,Buildings & Improvements,30604.0
+921,2010-12-29,Southwest Division,Actual,Machinery & Equipment,9604.0
+922,2010-12-29,Southwest Division,Actual,Office Furniture & Equipment,45032.0
+923,2010-12-29,Southwest Division,Actual,Leasehold Improvements,8156.0
+924,2010-12-29,Southwest Division,Actual,Construction In Progress,3367.0
+925,2010-12-29,Southwest Division,Actual,Other Assets,19165.0
+926,2010-12-29,Southwest Division,Actual,Notes Payable,14934.0
+927,2010-12-29,Southwest Division,Actual,Accounts Payable,124092.0
+928,2010-12-29,Southwest Division,Actual,Salary & Other Comp,36755.0
+929,2010-12-29,Southwest Division,Actual,Insurance,24240.0
+930,2010-12-29,Southwest Division,Actual,Warranties,20512.0
+931,2010-12-29,Southwest Division,Actual,Intercompany Payables,9897.0
+932,2010-12-29,Southwest Division,Actual,Other Current Liabilities,26049.0
+933,2010-12-29,Southwest Division,Actual,Long Term Obligations,25665.0
+934,2010-12-29,Southwest Division,Actual,Pension Liability,25964.0
+935,2010-12-29,Southwest Division,Actual,Other Retirement Benefits,37554.0
+936,2010-12-29,Southwest Division,Actual,Other Long Term Liabilities,21794.0
+937,2010-12-29,Southwest Division,Actual,Partner Capital,350000.0
+938,2010-12-29,Southwest Division,Actual,Additional Paid In Capital,-713280.0
+939,2010-12-29,Southwest Division,Actual,Prior Year Retained Earnings,477620.0
+940,2010-12-29,Southwest Division,Actual,Current Retained Earnings,-52842.0
+941,2010-12-29,Southwest Division,Actual,Current Installments of Long-term Debt,15543.0
+942,2010-12-29,Canadian Division,Actual,Salaries,48000.46
+943,2010-12-29,Canadian Division,Budget,Salaries,29400.0
+944,2010-12-29,Canadian Division,Budget,Payroll Taxes,3000.0
+945,2010-12-29,Canadian Division,Actual,Payroll Taxes,4801.17
+946,2010-12-29,Canadian Division,Actual,Employee Benefits,3840.55
+947,2010-12-29,Canadian Division,Budget,Employee Benefits,2000.0
+948,2010-12-29,Canadian Division,Budget,Travel Transportation,480.0
+949,2010-12-29,Canadian Division,Actual,Travel Transportation,861.7
+950,2010-12-29,Canadian Division,Actual,Travel Lodging,782.91
+951,2010-12-29,Canadian Division,Budget,Travel Lodging,380.0
+952,2010-12-29,Canadian Division,Budget,Meals,200.0
+953,2010-12-29,Canadian Division,Actual,Meals,401.09
+954,2010-12-29,Canadian Division,Actual,Entertainment,292.0
+955,2010-12-29,Canadian Division,Budget,Entertainment,200.0
+956,2010-12-29,Canadian Division,Actual,Other Travel Related,87.45
+957,2010-12-29,Canadian Division,Actual,Conferences,110.17
+958,2010-12-29,Canadian Division,Budget,Conferences,90.0
+959,2010-12-29,Canadian Division,Budget,Office Supplies,300.0
+960,2010-12-29,Canadian Division,Actual,Office Supplies,535.94
+961,2010-12-29,Canadian Division,Actual,Professional Services,352.6
+962,2010-12-29,Canadian Division,Budget,Professional Services,200.0
+963,2010-12-29,Canadian Division,Budget,Telephone,380.0
+964,2010-12-29,Canadian Division,Actual,Telephone,625.34
+965,2010-12-29,Canadian Division,Actual,Utilities,1123.83
+966,2010-12-29,Canadian Division,Budget,Utilities,650.0
+967,2010-12-29,Canadian Division,Budget,Other Expenses,200.0
+968,2010-12-29,Canadian Division,Actual,Other Expenses,325.33
+969,2010-12-29,Canadian Division,Actual,Building Leasehold,1260.2
+970,2010-12-29,Canadian Division,Budget,Building Leasehold,750.0
+971,2010-12-29,Canadian Division,Budget,Vehicles,480.0
+972,2010-12-29,Canadian Division,Actual,Vehicles,779.88
+973,2010-12-29,Canadian Division,Actual,Equipment,78.36
+974,2010-12-29,Canadian Division,Budget,Equipment,50.0
+975,2010-12-29,Canadian Division,Budget,Furniture and Fixtures,200.0
+976,2010-12-29,Canadian Division,Actual,Furniture and Fixtures,273.81
+977,2010-12-29,Canadian Division,Actual,Other Assets,235.93
+978,2010-12-29,Canadian Division,Budget,Other Assets,200.0
+979,2010-12-29,Canadian Division,Budget,Amortization of Goodwill,100.0
+980,2010-12-29,Canadian Division,Actual,Amortization of Goodwill,219.27
+981,2010-12-29,Canadian Division,Actual,Rent,1092.01
+982,2010-12-29,Canadian Division,Budget,Rent,650.0
+983,2010-12-29,Canadian Division,Actual,Interest Income,229.87
+984,2010-12-29,Canadian Division,Actual,Interest Expense,352.6
+985,2010-12-29,Canadian Division,Actual,Gain/Loss on Sales of Asset,-280.73
+986,2010-12-29,Canadian Division,Actual,Other Income,470.79
+987,2010-12-29,Canadian Division,Actual,Taxes,404.12
+988,2010-12-29,Canadian Division,Actual,Headcount,8.0
+989,2010-12-29,Canadian Division,Actual,Finished Goods,72197.88
+990,2010-12-29,Canadian Division,Actual,Salaries,24969.73
+991,2010-12-29,Canadian Division,Budget,Salaries,15600.0
+992,2010-12-29,Canadian Division,Budget,Payroll Taxes,1500.0
+993,2010-12-29,Canadian Division,Actual,Payroll Taxes,2498.1
+994,2010-12-29,Canadian Division,Actual,Employee Benefits,1249.59
+995,2010-12-29,Canadian Division,Budget,Employee Benefits,1000.0
+996,2010-12-29,Canadian Division,Budget,Travel Transportation,200.0
+997,2010-12-29,Canadian Division,Actual,Travel Transportation,255.63
+998,2010-12-29,Canadian Division,Actual,Travel Lodging,231.39
+999,2010-12-29,Canadian Division,Budget,Travel Lodging,200.0
+1000,2010-12-29,Canadian Division,Budget,Meals,100.0
+1001,2010-12-29,Canadian Division,Actual,Meals,128.36
+1002,2010-12-29,Canadian Division,Actual,Entertainment,91.99
+1003,2010-12-29,Canadian Division,Budget,Entertainment,80.0
+1004,2010-12-29,Canadian Division,Actual,Other Travel Related,26.84
+1005,2010-12-29,Canadian Division,Actual,Conferences,37.45
+1006,2010-12-29,Canadian Division,Budget,Conferences,50.0
+1007,2010-12-29,Canadian Division,Budget,Office Supplies,220.0
+1008,2010-12-29,Canadian Division,Actual,Office Supplies,198.05
+1009,2010-12-29,Canadian Division,Actual,Professional Services,222.3
+1010,2010-12-29,Canadian Division,Budget,Professional Services,200.0
+1011,2010-12-29,Canadian Division,Budget,Telephone,200.0
+1012,2010-12-29,Canadian Division,Actual,Telephone,276.84
+1013,2010-12-29,Canadian Division,Actual,Utilities,496.54
+1014,2010-12-29,Canadian Division,Budget,Utilities,280.0
+1015,2010-12-29,Canadian Division,Budget,Other Expenses,100.0
+1016,2010-12-29,Canadian Division,Actual,Other Expenses,169.27
+1017,2010-12-29,Canadian Division,Actual,Building Leasehold,617.76
+1018,2010-12-29,Canadian Division,Budget,Building Leasehold,380.0
+1019,2010-12-29,Canadian Division,Budget,Vehicles,280.0
+1020,2010-12-29,Canadian Division,Actual,Vehicles,382.91
+1021,2010-12-29,Canadian Division,Actual,Equipment,38.96
+1022,2010-12-29,Canadian Division,Budget,Equipment,20.0
+1023,2010-12-29,Canadian Division,Budget,Furniture and Fixtures,90.0
+1024,2010-12-29,Canadian Division,Actual,Furniture and Fixtures,134.42
+1025,2010-12-29,Canadian Division,Actual,Other Assets,114.72
+1026,2010-12-29,Canadian Division,Budget,Other Assets,80.0
+1027,2010-12-29,Canadian Division,Budget,Amortization of Goodwill,60.0
+1028,2010-12-29,Canadian Division,Actual,Amortization of Goodwill,107.14
+1029,2010-12-29,Canadian Division,Actual,Rent,546.55
+1030,2010-12-29,Canadian Division,Budget,Rent,380.0
+1031,2010-12-29,Canadian Division,Actual,Interest Income,111.69
+1032,2010-12-29,Canadian Division,Actual,Interest Expense,170.78
+1033,2010-12-29,Canadian Division,Actual,Gain/Loss on Sales of Asset,-135.28
+1034,2010-12-29,Canadian Division,Actual,Other Income,228.36
+1035,2010-12-29,Canadian Division,Actual,Taxes,198.05
+1036,2010-12-29,Canadian Division,Actual,Headcount,4.0
+1037,2010-12-29,Canadian Division,Actual,Intercompany Sales,2102.64
+1038,2010-12-29,Canadian Division,Budget,Intercompany Sales,2200.0
+1039,2010-12-29,Canadian Division,Budget,Returns and Adjustments,4800.0
+1040,2010-12-29,Canadian Division,Actual,Returns and Adjustments,4205.7
+1041,2010-12-29,Canadian Division,Actual,Standard Cost of Sales,73593.36
+1042,2010-12-29,Canadian Division,Budget,Standard Cost of Sales,69900.0
+1043,2010-12-29,Canadian Division,Budget,Variances,9600.0
+1044,2010-12-29,Canadian Division,Actual,Variances,8761.85
+1045,2010-12-29,Canadian Division,Actual,Salaries,24000.01
+1046,2010-12-29,Canadian Division,Budget,Salaries,15700.0
+1047,2010-12-29,Canadian Division,Budget,Payroll Taxes,1400.0
+1048,2010-12-29,Canadian Division,Actual,Payroll Taxes,2401.13
+1049,2010-12-29,Canadian Division,Actual,Employee Benefits,1201.1
+1050,2010-12-29,Canadian Division,Budget,Employee Benefits,1000.0
+1051,2010-12-29,Canadian Division,Budget,Commissions,7300.0
+1052,2010-12-29,Canadian Division,Actual,Commissions,8411.84
+1053,2010-12-29,Canadian Division,Actual,Travel Transportation,243.51
+1054,2010-12-29,Canadian Division,Budget,Travel Transportation,200.0
+1055,2010-12-29,Canadian Division,Budget,Travel Lodging,200.0
+1056,2010-12-29,Canadian Division,Actual,Travel Lodging,220.78
+1057,2010-12-29,Canadian Division,Actual,Meals,122.3
+1058,2010-12-29,Canadian Division,Budget,Meals,100.0
+1059,2010-12-29,Canadian Division,Budget,Entertainment,70.0
+1060,2010-12-29,Canadian Division,Actual,Entertainment,91.99
+1061,2010-12-29,Canadian Division,Actual,Other Travel Related,25.32
+1062,2010-12-29,Canadian Division,Actual,Conferences,49.57
+1063,2010-12-29,Canadian Division,Budget,Conferences,50.0
+1064,2010-12-29,Canadian Division,Budget,Marketing Collateral,650.0
+1065,2010-12-29,Canadian Division,Actual,Marketing Collateral,420.79
+1066,2010-12-29,Canadian Division,Actual,Office Supplies,198.05
+1067,2010-12-29,Canadian Division,Budget,Office Supplies,220.0
+1068,2010-12-29,Canadian Division,Budget,Professional Services,200.0
+1069,2010-12-29,Canadian Division,Actual,Professional Services,214.72
+1070,2010-12-29,Canadian Division,Actual,Telephone,1787.48
+1071,2010-12-29,Canadian Division,Budget,Telephone,2100.0
+1072,2010-12-29,Canadian Division,Budget,Utilities,380.0
+1073,2010-12-29,Canadian Division,Actual,Utilities,492.0
+1074,2010-12-29,Canadian Division,Actual,Other Expenses,163.21
+1075,2010-12-29,Canadian Division,Budget,Other Expenses,100.0
+1076,2010-12-29,Canadian Division,Budget,Building Leasehold,480.0
+1077,2010-12-29,Canadian Division,Actual,Building Leasehold,598.06
+1078,2010-12-29,Canadian Division,Actual,Vehicles,370.79
+1079,2010-12-29,Canadian Division,Budget,Vehicles,280.0
+1080,2010-12-29,Canadian Division,Budget,Equipment,30.0
+1081,2010-12-29,Canadian Division,Actual,Equipment,37.45
+1082,2010-12-29,Canadian Division,Actual,Furniture and Fixtures,126.84
+1083,2010-12-29,Canadian Division,Budget,Furniture and Fixtures,90.0
+1084,2010-12-29,Canadian Division,Budget,Other Assets,90.0
+1085,2010-12-29,Canadian Division,Actual,Other Assets,107.14
+1086,2010-12-29,Canadian Division,Actual,Amortization of Goodwill,101.08
+1087,2010-12-29,Canadian Division,Budget,Amortization of Goodwill,70.0
+1088,2010-12-29,Canadian Division,Budget,Rent,380.0
+1089,2010-12-29,Canadian Division,Actual,Rent,546.55
+1090,2010-12-29,Canadian Division,Actual,Interest Income,104.11
+1091,2010-12-29,Canadian Division,Actual,Interest Expense,160.18
+1092,2010-12-29,Canadian Division,Actual,Gain/Loss on Sales of Asset,-126.19
+1093,2010-12-29,Canadian Division,Actual,Other Income,213.21
+1094,2010-12-29,Canadian Division,Actual,Taxes,17008.97
+1095,2010-12-29,Canadian Division,Actual,Headcount,4.0
+1096,2010-12-29,Canadian Division,Actual,Units,226.0
+1097,2010-12-29,Canadian Division,Actual,Square Footage,34500.0
+1098,2010-12-29,Canadian Division,Budget,Trade Sales,241800.0
+1099,2010-12-29,Canadian Division,Actual,Trade Sales,210286.82
+1100,2010-12-29,Canadian Division,Actual,Cash,239529.79
+1101,2010-12-29,Canadian Division,Actual,Trade Receivables,361777.52
+1102,2010-12-29,Canadian Division,Actual,Other Receivables,10410.37
+1103,2010-12-29,Canadian Division,Actual,Allowance for Bad Debt,7236.06
+1104,2010-12-29,Canadian Division,Actual,Deferred Taxes,57521.85
+1105,2010-12-29,Canadian Division,Actual,Prepaid Expenses,39433.63
+1106,2010-12-29,Canadian Division,Actual,Intercompany Receivables,71632.72
+1107,2010-12-29,Canadian Division,Actual,Land & Improvements,10395.21
+1108,2010-12-29,Canadian Division,Actual,Buildings & Improvements,33121.4
+1109,2010-12-29,Canadian Division,Actual,Machinery & Equipment,10498.25
+1110,2010-12-29,Canadian Division,Actual,Office Furniture & Equipment,59702.19
+1111,2010-12-29,Canadian Division,Actual,Leasehold Improvements,9005.79
+1112,2010-12-29,Canadian Division,Actual,Construction In Progress,3645.09
+1113,2010-12-29,Canadian Division,Actual,Other Assets,18102.93
+1114,2010-12-29,Canadian Division,Actual,Notes Payable,16163.5
+1115,2010-12-29,Canadian Division,Actual,Accounts Payable,129964.11
+1116,2010-12-29,Canadian Division,Actual,Salary & Other Comp,65981.1
+1117,2010-12-29,Canadian Division,Actual,Insurance,25512.16
+1118,2010-12-29,Canadian Division,Actual,Warranties,19174.17
+1119,2010-12-29,Canadian Division,Actual,Intercompany Payables,24563.66
+1120,2010-12-29,Canadian Division,Actual,Other Current Liabilities,28487.98
+1121,2010-12-29,Canadian Division,Actual,Long Term Obligations,29377.39
+1122,2010-12-29,Canadian Division,Actual,Pension Liability,24012.13
+1123,2010-12-29,Canadian Division,Actual,Other Retirement Benefits,61744.66
+1124,2010-12-29,Canadian Division,Actual,Other Long Term Liabilities,23586.37
+1125,2010-12-29,Canadian Division,Actual,Partner Capital,400000.0
+1126,2010-12-29,Canadian Division,Actual,Additional Paid In Capital,51141.68
+1127,2010-12-29,Canadian Division,Actual,Prior Year Retained Earnings,121290.3
+1128,2010-12-29,Canadian Division,Actual,Current Retained Earnings,-32456.57
+1129,2010-12-29,Canadian Division,Actual,Current Installments of Long-term Debt,15668.04

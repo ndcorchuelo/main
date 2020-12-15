@@ -1,0 +1,11 @@
+source:
+  driver_source: "{SQL Server}"
+  database_source: "AdventureWorksDW2016"
+  host_source: "DESKTOP-CCAR0HT"
+  port_distination: "1433"
+  user_source: "master"
+  password_source: "secret"
+  trusted_connection: "yes"
+
+destination:
+  path: "C:\\Users\\nicolas.corchuelo\\OneDrive\\Professional Path\\Data Engineering\\git\\data\\FactFinance2010.csv"
