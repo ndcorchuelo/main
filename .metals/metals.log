@@ -1,0 +1,7 @@
+2020.12.15 12:10:26 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\nicolas.corchuelo\OneDrive\Professional Path\Data Engineering\git' for client vscode.
+2020.12.15 12:10:27 INFO  time: initialize in 1.05s
+2020.12.15 12:10:29 WARN  Build server is not auto-connectable.
+2020.12.15 12:10:29 WARN  no build tool detected in workspace 'C:\Users\nicolas.corchuelo\OneDrive\Professional Path\Data Engineering\git'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 15, 2020 12:10:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
+2020.12.15 14:15:24 INFO  shutting down Metals
